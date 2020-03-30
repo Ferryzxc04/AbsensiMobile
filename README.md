@@ -1,6 +1,6 @@
 # AbsensiMobile
 Absensi Online adalah applikasi untuk memanagement history kehadiran untuk mahasiswa, dengan tujuan untuk mengefisienkan process kehadiran
-bagi mahasiswa dana dosennya
+bagi mahasiswa dan dosennya
 
 # Feature
 1. Scan QR Code
