@@ -9,7 +9,7 @@ bagi mahasiswa dan dosennya
 4. Login with number id mahasiswa dan password
 
 # Process
-Applikasi ini dibangun dengan bahasa Java dana Back-End Firebase real-time database
+Applikasi ini dibangun dengan bahasa Java dan Back-End Firebase real-time database
 
 
 # Apllikasi ini sudah selesai, namun bila ingin dikembangkan lagi untuk skripsi atau lainnya silahkan !
